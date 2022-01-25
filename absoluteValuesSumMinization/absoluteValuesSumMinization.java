@@ -1,6 +1,5 @@
 package absoluteValuesSumMinization;
 
-
 public class absoluteValuesSumMinization{
 
     public static int absoluteValuesSum(int [] a){

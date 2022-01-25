@@ -4,3 +4,5 @@ function absoluteValuesSumMinization(a : number[]) : number{
 }
 
 console.log(absoluteValuesSumMinization([2,4,7]));
+console.log(absoluteValuesSumMinization([2,4,7,8]));
+console.log(absoluteValuesSumMinization([2,3,3.5,4,5,7]));
