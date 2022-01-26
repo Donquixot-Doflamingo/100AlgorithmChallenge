@@ -1,4 +1,4 @@
-package absoluteValuesSumMinization;
+// package absoluteValuesSumMinization;
 
 public class absoluteValuesSumMinization{
 
