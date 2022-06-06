@@ -3,13 +3,13 @@ In this repository I will be solving 100 algorithm daily and posting them here. 
 
 * 1. Absolute vale sum minimization using java and typescript 
 * 2. Sum of all numbers 
-* 3. 
-* 4. 
-* 5. 
-* 6. 
-* 7. 
-* 8. 
-* 9. 
+* 3. Absolute sum minimzation
+* 4. Add two digits integer
+* 5. adjacent Elements Product
+* 6. All Longest Strings
+* 7. Almost Increasing Sequence
+* 8. alphabetic Shift
+* 9. alphabet SubSequence
 * 10. 
 * 11. 
 * 12. 
