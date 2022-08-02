@@ -10,7 +10,7 @@ In this repository I will be solving 100 algorithm daily and posting them here. 
 * 7. Almost Increasing Sequence
 * 8. alphabetic Shift
 * 9. alphabet SubSequence
-* 10. AlternatingSums
+* 10. alternatingSums
 * 11. 
 * 12. 
 * 13. 
