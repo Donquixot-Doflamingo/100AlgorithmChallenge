@@ -14,8 +14,8 @@ In this repository I will be solving 100 algorithm daily and posting them here. 
 * 11. are Equally Strong
 * 12. areSimilar
 * 13. arrayChange
-* 14. 
-* 15. 
+* 14. arrayConversion
+* 15. arrayMax ConsecutiveSum
 * 16. 
 * 17. 
 * 18. 
