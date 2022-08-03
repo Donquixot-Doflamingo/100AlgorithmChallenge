@@ -12,7 +12,7 @@ In this repository I will be solving 100 algorithm daily and posting them here. 
 * 9. alphabet SubSequence
 * 10. alternatingSums
 * 11. are Equally Strong
-* 12. 
+* 12. areSimilar
 * 13. 
 * 14. 
 * 15. 
