@@ -13,7 +13,7 @@ In this repository I will be solving 100 algorithm daily and posting them here. 
 * 10. alternatingSums
 * 11. are Equally Strong
 * 12. areSimilar
-* 13. 
+* 13. arrayChange
 * 14. 
 * 15. 
 * 16. 
