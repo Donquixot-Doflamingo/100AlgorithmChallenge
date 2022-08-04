@@ -17,7 +17,7 @@ In this repository I will be solving 100 algorithm daily and posting them here. 
 * 14. arrayConversion
 * 15. arrayMax ConsecutiveSum
 * 16. arrayMaximal AdjacentDifference
-* 17. 
+* 17. arrayPreviousLess
 * 18. 
 * 19. 
 * 20. 
